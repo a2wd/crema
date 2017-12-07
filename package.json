@@ -1,0 +1,26 @@
+{
+  "name": "crema",
+  "version": "1.0.0",
+  "description": "Solutions to the problems posed at project euler",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha Problem_1",
+    "test-watch": "mocha Problem_1 --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a2wd/crema.git"
+  },
+  "keywords": [
+    "maths"
+  ],
+  "author": "a2wd",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/a2wd/crema/issues"
+  },
+  "homepage": "https://github.com/a2wd/crema#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
